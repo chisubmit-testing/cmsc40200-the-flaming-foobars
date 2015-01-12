@@ -1,13 +1,17 @@
 Points:
     The PA1 Tests:
         Points Possible: 50
-        Points Obtained: 50
+        Points Obtained: 45
 
     The PA1 Design:
         Points Possible: 50
-        Points Obtained: 
+        Points Obtained: 30
+        
+Penalties:
+    Used O(n^156) algorithm: -10
+    Submitted code in a Word document: -30
 
-Total Points: 50 / 100
+Total Points: 35 / 100
 
 Comments: >
     None
